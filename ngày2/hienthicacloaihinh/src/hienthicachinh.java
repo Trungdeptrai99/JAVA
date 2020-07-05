@@ -27,7 +27,7 @@ public class hienthicachinh {
                 break;
             }
             case 3: {
-                for (int i = 5; i >= 1; i--) {
+                for (int i = 5; i > 1; i--) {
                     String draw="";
                     for (int j = 1; j <= i; j++) {
                         draw=draw+"*";
