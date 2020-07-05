@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6bdc232-c484-4321-9ec9-858b2a30c21a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SystemTime/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemTime/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemTime/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemTime/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemTime/SystemTime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemTime/out/production/SystemTime/SystemTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SystemTime/src/SystemTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapchuyendoitien/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapchuyendoitien/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapchuyendoitien/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapchuyendoitien/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapchuyendoitien/baitapchuyendoitien.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapchuyendoitien/out/production/baitapchuyendoitien/baitapchuyendoitiente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapchuyendoitien/src/baitapchuyendoitiente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitaphienthiloichao/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitaphienthiloichao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitaphienthiloichao/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitaphienthiloichao/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitaphienthiloichao/baitaphienthiloichao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitaphienthiloichao/out/production/baitaphienthiloichao/hienthiloichao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitaphienthiloichao/src/hienthiloichao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../giaiphuongtrinhbac1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../giaiphuongtrinhbac1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../giaiphuongtrinhbac1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../giaiphuongtrinhbac1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../giaiphuongtrinhbac1/giaiphuongtrinhbac1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../giaiphuongtrinhbac1/out/production/giaiphuongtrinhbac1/giaiphuongtrinhbacnhat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../giaiphuongtrinhbac1/src/giaiphuongtrinhbacnhat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../khaibaovasudungbien/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../khaibaovasudungbien/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../khaibaovasudungbien/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../khaibaovasudungbien/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../khaibaovasudungbien/khaibaovasudungbien.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../khaibaovasudungbien/out/production/khaibaovasudungbien/khaibaovasudungbien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../khaibaovasudungbien/src/khaibaovasudungbien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiemtranamnhuan/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiemtranamnhuan/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiemtranamnhuan/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiemtranamnhuan/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiemtranamnhuan/kiemtranamnhuan.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiemtranamnhuan/out/production/kiemtranamnhuan/kiemtranamnhuan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiemtranamnhuan/src/kiemtranamnhuan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songaytrongthang/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songaytrongthang/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songaytrongthang/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songaytrongthang/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songaytrongthang/out/production/songaytrongthang/tinhsongaytrongthang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songaytrongthang/songaytrongthang.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../songaytrongthang/src/tinhsongaytrongthang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudungtoantu/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudungtoantu/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudungtoantu/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudungtoantu/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudungtoantu/out/production/sudungtoantu/sudungtoantu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudungtoantu/src/sudungtoantu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudungtoantu/sudungtoantu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinhchisocannang/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinhchisocannang/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinhchisocannang/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinhchisocannang/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinhchisocannang/out/production/tinhchisocannang/tinhchisocannag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinhchisocannang/src/tinhchisocannag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinhchisocannang/tinhchisocannang.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eFjZQBvE3A7Ya3FvX2Sc4TN0rx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ngày 1/baitapchuyendoitien" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="TEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6bdc232-c484-4321-9ec9-858b2a30c21a" name="Default Changelist" comment="" />
+      <created>1593924289869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593924289869</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593927895298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593927895298" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1593927896597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593927896597" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1593927896596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593927896596" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1593927896596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593927896596" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1593927896596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593927896596" />
+  </component>
+</project>
