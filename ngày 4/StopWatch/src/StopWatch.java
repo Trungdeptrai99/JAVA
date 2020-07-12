@@ -1,22 +1,49 @@
 import java.util.Date;
 
 public class StopWatch {
-   private long startTime;
-   private long endTime;
+   private Date startTime;
+   private Date endTime;
+   public long count;
+   public long count1;
 
-    public long getStartTime() {
+
+    public Date getStartTime() {
         return startTime;
     }
-    
-    public long getEndTime() {
+
+    public Date getEndTime() {
+
         return endTime;
     }
-    public static void start(){
-        Date c = new Date();
-        System.out.println(c);
+
+    public void start(){
+        Date nowTime = new Date();
+        this.startTime= nowTime;
+         count = System.currentTimeMillis();
+
     }
 
+    public void stop(){
+        this.endTime = new Date();
+         count1 = System.currentTimeMillis();
+    }
+
+    public long getElapsedTime(){
+        return count1- count;
+
+    }
+
+
     public static void main(String[] args) {
-        StopWatch.start();
+        StopWatch b = new StopWatch();
+        b.start();
+        System.out.println("Bắt đầu lúc"+b.startTime);
+        for(long i=0;i<100000;i++){
+            System.out.println(i);
+        }
+        b.stop();
+        System.out.println("Kết thúc lúc "+b.endTime);
+        System.out.println("Hết "+b.getElapsedTime()+ " miliseconds");
+
     }
 }
