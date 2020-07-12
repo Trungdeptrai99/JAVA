@@ -1,6 +1,17 @@
 import java.util.Scanner;
 
 public class findMax {
+    public static int findMin(int[][] Arr){
+        int min = Arr[0][0];
+        for(int i=0;i<Arr.length;i++){
+            for (int j=0;j<Arr[i].length;j++){
+                if(min>Arr[i][j]){
+                    min= Arr[i][j];
+                }
+            }
+        }
+        return min;
+    }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n,col,row;
@@ -18,14 +29,7 @@ public class findMax {
                 Arr[i][j]= sc.nextInt();
             }
         }
-         int min = Arr[0][0];
-        for(int i=0;i<Arr.length;i++){
-            for (int j=0;j<Arr[i].length;j++){
-               if(min>Arr[i][j]){
-                   min= Arr[i][j];
-               }
-            }
-        }
-        System.out.println("Phần từ nhỏ nhất trong mảng là "+min);
+
+        System.out.println("Phần từ nhỏ nhất trong mảng là "+findMin(Arr));
     }
 }
