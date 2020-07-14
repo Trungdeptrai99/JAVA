@@ -5,4 +5,5 @@ public abstract class Animal {
     public String howToEat() {
         return "Bố nhai đầu mày bây giờ";
     }
+
 }
