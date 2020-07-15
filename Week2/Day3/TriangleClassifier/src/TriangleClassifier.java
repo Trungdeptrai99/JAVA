@@ -26,7 +26,7 @@ public class TriangleClassifier {
         if(max<c){
             max=c;
         }
-       if(a+b+c<=2*max){
+       if(a+b+c<=2*max||a<0||b<0||c<0){
            return false;
        }
 
