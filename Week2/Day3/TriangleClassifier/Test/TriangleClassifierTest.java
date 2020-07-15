@@ -15,6 +15,7 @@ class TriangleClassifierTest {
        String expected = "Tam giác thường";
         assertEquals(expected, result);
     }
+
     @Test
     void Check02() {
         int a =6;
@@ -24,6 +25,7 @@ class TriangleClassifierTest {
         boolean expected =false ;
         assertEquals(expected, result);
     }
+
     @Test
     void Check03() {
         int a =1;
@@ -33,6 +35,7 @@ class TriangleClassifierTest {
         boolean expected =false ;
         assertEquals(expected, result);
     }
+
     @Test
     void Check04() {
         int a =2;
